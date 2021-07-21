@@ -1,0 +1,43 @@
+/*Home*/
+#home{
+    height: 796px;
+}
+
+.headings{
+    font-size: 1.7rem;
+}
+
+/*Sobre Mim*/
+#pic img{
+    width: 300px;
+    height: 175px;
+}
+
+#pic img.icon{
+    width: 40px; 
+    height: 40px;
+}
+
+#intro h2{
+    font-size: 1.5rem;
+}
+
+/*Portfolio*/
+.galeria img{
+    width: 250px;
+    height: 150px;
+    margin: 10px;
+}
+
+/*Contato*/
+.input{
+    width: 80%;
+}
+
+#msg{
+    width: 70%;
+}
+
+#send{
+    width: 20%;
+}
